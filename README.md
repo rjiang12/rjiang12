@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Roy Jiang :canada: 
+## Roy Jiang :canada::man_technologist:
 #### :books: Computer Science + Business, Economics, and Management double major @ Caltech
 #### :microscope: CS/Neuroscience researcher @ Caltech's Emotion & Social Cognition Lab
 #### :computer: Python3, Java, JavaScript, HTML, CSS, C, Git
