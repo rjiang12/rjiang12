@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Roy Jiang :canada::man_technologist:
 #### :books: Computer Science + Business, Economics, and Management double major @ Caltech
 #### :microscope: CS/Neuroscience researcher @ Caltech's Emotion & Social Cognition Lab
-#### :computer: Python3, Java, JavaScript, HTML, CSS, C, Git
+#### :computer: JavaScript/JSX, ReactJS/Redux, Node.js/Express.js, Python3, Java, HTML, CSS/SCSS, C, Git
 
 #### [LinkedIn](https://www.linkedin.com/in/royjiang2025/)
 #### [Instagram](https://www.instagram.com/rjiang_12/) 
