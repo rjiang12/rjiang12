@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Roy Jiang :canada::man_technologist:
 #### :books: Computer Science + Business, Economics, and Management double major w/ Neurobiology minor @ Caltech
 #### :clock1: SWE @ Meta
-#### :microscope: SWE/ML Research Intern @ Anima AI + Science Lab
+#### :microscope: SWE/ML Research @ Anima AI + Science Lab
 #### :computer: JavaScript/TypeScript, React, Hack/PHP, GraphQL, Node.js/Express.js, MySQL, PostgreSQL, MongoDB, REST, Postman, Docker, Testing (Jest, SuperTest, Cypress, Puppeteer, React Testing Library), Authentication (OAuth 2.0, BCrypt, Passport.js, cookies), Git (GitHub, GitLab, Mercurial, Jellyfish), Travis CI, AWS (DynamoDB, IAM, EB, EC2, RDS, ECR, S3), Redux, Webpack, HTML5/CSS/SCSS, jQuery, Agile/SCRUM Development, Python3, Java, C
 
 
